@@ -1,0 +1,4 @@
+#!/bin/bash
+#
+#theavenger
+curl http://wttr.in/$1
